@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 import pickle as pkl
 import matplotlib.pyplot as plt
-from geopy.distance import geodesic
 from s1_data_prep import plot_path
 from cmdstanpy import CmdStanModel
 
